@@ -1,0 +1,11 @@
+{
+  "name": "Curve Random",
+  "symbol": "RND",
+  "description": "Randomized tranche bonding curve with variable steps (devnet).",
+  "image": "https://raw.githubusercontent.com/AnanMans/curve-assets/refs/heads/main/random.png",
+  "attributes": [{ "trait_type": "Curve", "value": "Random" }],
+  "properties": {
+    "category": "image",
+    "files": [{ "uri": "https://raw.githubusercontent.com/AnanMans/curve-assets/refs/heads/main/random.png", "type": "image/png" }]
+  }
+}
