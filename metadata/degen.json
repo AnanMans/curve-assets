@@ -1,0 +1,11 @@
+{
+  "name": "Curve Degen",
+  "symbol": "DGN",
+  "description": "High-octane bonding curve with aggressive early supply (devnet).",
+  "image": "https://raw.githubusercontent.com/AnanMans/curve-assets/refs/heads/main/degen.png",
+  "attributes": [{ "trait_type": "Curve", "value": "Degen" }],
+  "properties": {
+    "category": "image",
+    "files": [{ "uri": "https://raw.githubusercontent.com/<USER>/curve-assets/refs/heads/main/degen.png", "type": "image/png" }]
+  }
+}
