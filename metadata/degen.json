@@ -6,6 +6,6 @@
   "attributes": [{ "trait_type": "Curve", "value": "Degen" }],
   "properties": {
     "category": "image",
-    "files": [{ "uri": "https://raw.githubusercontent.com/<USER>/curve-assets/refs/heads/main/degen.png", "type": "image/png" }]
+    "files": [{ "uri": "https://raw.githubusercontent.com/AnanMans/curve-assets/refs/heads/main/degen.png", "type": "image/png" }]
   }
 }
