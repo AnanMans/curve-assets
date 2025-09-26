@@ -1,0 +1,13 @@
+{
+  "name": "Curve Linear",
+  "symbol": "LIN",
+  "description": "Linear bonding curve memecoin (devnet).",
+  "image": "https://raw.githubusercontent.com/AnanMans/curve-assets/refs/heads/main/linear.png",
+  "attributes": [{ "trait_type": "Curve", "value": "Linear" }],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/AnanMans/curve-assets/refs/heads/main/linear.png", "type": "image/png" }
+    ]
+  }
+}
